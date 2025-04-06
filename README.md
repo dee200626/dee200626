@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @dee200626
-- 👀 I’m interested in watching anime and coding with coffee by the side
-- 🌱 I’m currently learning DSA and ML
-- 💞️ I’m looking to collaborate on coding assignments
+- 👀 I’m interested in watching anime and building new projects
+- 🌱 I’m currently learning ML
+- 💞️ I’m looking to collaborate on ML projects
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: i'm the most boring and the most intresting person ever
 
