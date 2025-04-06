@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @dee200626
+- 👋 Hi, I’m Deepthy Patil
 - 👀 I’m interested in watching anime and building new projects
 - 🌱 I’m currently learning ML
 - 💞️ I’m looking to collaborate on ML projects
